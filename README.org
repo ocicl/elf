@@ -1,0 +1,10 @@
+* elf
+
+Actively maintained at https://github.com/grammatech/elf
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/eschulte/elf.git   |
+| commit  | 795ca33  |
+| systems | elf |
+|---------+-------------------------------------------|
+
